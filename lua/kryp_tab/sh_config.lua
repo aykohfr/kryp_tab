@@ -8,7 +8,7 @@ CONFIG.ServerName = ""
 
 -- UI officielle du tablist. L'image est téléchargée côté client puis mise en cache.
 CONFIG.UIImageURL = "https://i.imgur.com/L0bpoDh.png"
-CONFIG.UIImageDataPath = "kryp_tab/L0bpoDh.png"
+CONFIG.UIImageDataPath = "kryp_tab/l0bpodh.png"
 
 -- Recadrage de l'image Imgur pour ne conserver que le panneau principal.
 -- Ces valeurs correspondent à la maquette L0bpoDh.png.
