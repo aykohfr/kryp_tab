@@ -1,4 +1,4 @@
-# Free Tablist
+# Kryp Tab
 
 Tablist Garry's Mod moderne ouvrable avec **TAB**, prévu pour fonctionner aussi bien sur DarkRP que sur un gamemode classique.
 
@@ -20,10 +20,10 @@ Tablist Garry's Mod moderne ouvrable avec **TAB**, prévu pour fonctionner aussi
 
 ## Installation
 
-Placez le dossier `free_tablist` dans :
+Placez le dossier `kryp_tab` dans :
 
 ```text
-garrysmod/addons/free_tablist/
+garrysmod/addons/kryp_tab/
 ```
 
 Puis redémarrez le serveur ou changez de map.
@@ -33,7 +33,7 @@ Puis redémarrez le serveur ou changez de map.
 Le fichier principal de configuration est :
 
 ```text
-lua/free_tablist/sh_config.lua
+lua/kryp_tab/sh_config.lua
 ```
 
 ### Nom du serveur
@@ -65,13 +65,13 @@ Un lien vide masque automatiquement son bouton.
 ## Structure
 
 ```text
-free_tablist/
+kryp_tab/
 ├── addon.json
 ├── README.md
 └── lua/
     ├── autorun/
-    │   └── free_tablist.lua
-    └── free_tablist/
+    │   └── kryp_tab.lua
+    └── kryp_tab/
         ├── cl_tablist.lua
         └── sh_config.lua
 ```
