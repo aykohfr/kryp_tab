@@ -1,0 +1,10 @@
+{
+  "title": "Free Tablist",
+  "type": "servercontent",
+  "tags": ["roleplay", "fun"],
+  "ignore": [
+    "*.psd",
+    "*.blend",
+    ".git*"
+  ]
+}
